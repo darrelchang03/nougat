@@ -19,3 +19,7 @@ To get started with Nougat, create an account, and start sharing your culinary a
 
 
 Happy cooking and happy sharing! Bon appétit! 🍴😊
+
+## Demo Video
+
+https://youtu.be/o5OG4Z4xamc
