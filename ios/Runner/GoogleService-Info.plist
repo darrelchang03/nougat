@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>943134905501-p0bttfitk367dlq4gh5atvkm9n2aujs8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.943134905501-p0bttfitk367dlq4gh5atvkm9n2aujs8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdMq0ZqTXUOq0A0lyr05Yx6hgiWbHBtxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>943134905501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nootApp</string>
+	<key>PROJECT_ID</key>
+	<string>noot-recipe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>noot-recipe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:943134905501:ios:b19d5e0e2aa3288bf97074</string>
+</dict>
+</plist>

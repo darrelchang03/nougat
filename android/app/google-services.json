@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "943134905501",
+    "project_id": "noot-recipe",
+    "storage_bucket": "noot-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943134905501:android:dcf1e191019d27c1f97074",
+        "android_client_info": {
+          "package_name": "com.example.noot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943134905501-tu4j5vlvpbne9lvvafmsh5q04inflnl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_5yowQXoUp7WmDHzFYIYMkpiBhMQiPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943134905501-tu4j5vlvpbne9lvvafmsh5q04inflnl3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943134905501-p0bttfitk367dlq4gh5atvkm9n2aujs8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nootApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

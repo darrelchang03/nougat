@@ -1,0 +1,17 @@
+com.fluttercandies.photo_manager-jetified-glide-4.14.2-0 C:\Users\Kevin\.gradle\caches\transforms-3\1197daf65be2480065dc60e80e82c026\transformed\jetified-glide-4.14.2\res
+com.fluttercandies.photo_manager-jetified-window-1.0.0-beta04-1 C:\Users\Kevin\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.fluttercandies.photo_manager-jetified-savedstate-1.1.0-2 C:\Users\Kevin\.gradle\caches\transforms-3\5210929c6bf1b640a57ff02b8ff864f4\transformed\jetified-savedstate-1.1.0\res
+com.fluttercandies.photo_manager-jetified-annotation-experimental-1.1.0-3 C:\Users\Kevin\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.fluttercandies.photo_manager-core-1.6.0-4 C:\Users\Kevin\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.fluttercandies.photo_manager-fragment-1.3.6-5 C:\Users\Kevin\.gradle\caches\transforms-3\86302acde65cdee925f535b0bf1f911d\transformed\fragment-1.3.6\res
+com.fluttercandies.photo_manager-lifecycle-runtime-2.3.1-6 C:\Users\Kevin\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
+com.fluttercandies.photo_manager-jetified-window-java-1.0.0-beta04-7 C:\Users\Kevin\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.fluttercandies.photo_manager-lifecycle-viewmodel-2.3.1-8 C:\Users\Kevin\.gradle\caches\transforms-3\d486eee418567504419697de2b3eb487\transformed\lifecycle-viewmodel-2.3.1\res
+com.fluttercandies.photo_manager-main-9 C:\Users\Kevin\AppData\Local\Pub\Cache\hosted\pub.dev\photo_manager-2.6.0\android\src\main\res
+com.fluttercandies.photo_manager-release-10 C:\Users\Kevin\AppData\Local\Pub\Cache\hosted\pub.dev\photo_manager-2.6.0\android\src\release\res
+com.fluttercandies.photo_manager-pngs-11 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\generated\res\pngs\release
+com.fluttercandies.photo_manager-resValues-12 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\generated\res\resValues\release
+com.fluttercandies.photo_manager-rs-13 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\generated\res\rs\release
+com.fluttercandies.photo_manager-mergeReleaseResources-14 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.fluttercandies.photo_manager-mergeReleaseResources-15 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.fluttercandies.photo_manager-merged_res-16 C:\Users\Kevin\StudioProjects\noot_app\build\photo_manager\intermediates\merged_res\release
